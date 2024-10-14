@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabianoPython
 - 👀 I’m interested in ... Tecnologia, Python e Banco de Dados / MySQL
-- 🌱 I’m currently learning ...  Desenvolvimento Python avançado
+- 🌱 I’m currently learning ...  Desenvolvimento Python Avançado
 - 💞️ I’m looking to collaborate on ... Estou estudando 
 - 📫 How to reach me ... fabianosobral@live.com / www.linkedin.com/in/fabiano-sobral-8192b1236
 - 😄 Pronouns: ... Ele / Dele
